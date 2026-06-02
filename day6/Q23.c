@@ -15,6 +15,5 @@ int main() {
 
     printf("Number of set bits in %d is: %d\n", orig, c);
 
-    return 0;
-}
+    return 0;}
 
